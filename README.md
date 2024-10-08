@@ -96,6 +96,6 @@ The database consists of the following tables:
 
    ```
 bash
-git clone https://github.com/555Shivam/hotelmanagement_backend
+git clone https://github.com/555Shivam/hotelmanagement_backend-
 
 
