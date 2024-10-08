@@ -90,3 +90,11 @@ The database consists of the following tables:
    - `s_adhar`: Aadhar number of the staff member
    - `s_age`: Age of the staff member
    - `s_salary`: Salary of the staff member
+## Getting Started
+
+1. **Clone the Repository:**
+
+   ```bash
+git clone https://github.com/555Shivam/hotelmanagement_backend.git
+
+
