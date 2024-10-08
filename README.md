@@ -94,7 +94,8 @@ The database consists of the following tables:
 
 1. **Clone the Repository:**
 
-   ```bash
-git clone https://github.com/555Shivam/hotelmanagement_backend.git
+   ```
+bash
+git clone https://github.com/555Shivam/hotelmanagement_backend
 
 
